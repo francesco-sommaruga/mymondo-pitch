@@ -1,0 +1,36 @@
+.containerIframe {
+  position: relative;
+}
+
+.container {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: max-content;
+  margin-top: 2rem;
+  font-weight: 700;
+  font-size: 1.1rem;
+  background: #d28c89;
+  color: #fff;
+  border: solid 0.3rem #d28c89;
+  padding: 0.8rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.button:hover {
+  transform: scale(1.1);
+  color: #d28c89;
+  border-color: #d28c89;
+  background-color: #fff;
+}
+
+.vimeo {
+  border-radius: 5px;
+}

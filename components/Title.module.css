@@ -1,0 +1,15 @@
+.hide {
+  overflow: hidden;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 1rem;
+}
