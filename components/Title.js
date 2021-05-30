@@ -21,7 +21,7 @@ const Title = () => {
       </motion.h1>
 
       <motion.h1 variants={title2} className={styles.title}>
-        E questo è MYmondo
+        E questo è MYmondō
       </motion.h1>
     </motion.div>
   );

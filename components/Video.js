@@ -12,7 +12,7 @@ const Video = () => {
     >
       <motion.div variants={anim}>
         <iframe
-          src="https://player.vimeo.com/video/511773127"
+          src="https://player.vimeo.com/video/556935704"
           width="640"
           height="360"
           frameBorder="0"
